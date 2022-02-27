@@ -1,0 +1,369 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The spirituall verses and prose of James Hunt, which shall be plainly showne, God hath lighted my candle within his glorious throne.</title>
+            <author>Hunt, James, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86904</idno>
+            <idno type="STC">Wing H3738</idno>
+            <idno type="STC">Thomason E476_38</idno>
+            <idno type="STC">ESTC R205521</idno>
+            <idno type="EEBO-CITATION">99864877</idno>
+            <idno type="PROQUEST">99864877</idno>
+            <idno type="VID">117109</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86904)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117109)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E476[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The spirituall verses and prose of James Hunt, which shall be plainly showne, God hath lighted my candle within his glorious throne.</title>
+                  <author>Hunt, James, 17th cent.</author>
+               </titleStmt>
+               <extent>2 [i.e. 12] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Numerous mispaginations.</note>
+                  <note>Annotation on Thomason copy: "Called Profit Hunt"; "Dec: 19. 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Spiritual life --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117109:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 109 -->
+            <head>
+               <l>The ſpirituall Verſes and Profe of <hi>James Hunt,</hi> which ſhall be plainly ſhowne,</l>
+               <l>God hath lighted my Candle within his glorious Throne.</l>
+            </head>
+            <p>IT is written in the 18. Chapter of the <hi>Revelation, J ſaw an Angel come down out of Heaven, having great power, and the earth was lightned with his glory.</hi>
+            </p>
+            <lg>
+               <l>And now ye Clergie, I plainlie ſee and underſtand,</l>
+               <l>You ſay your Univerſities,</l>
+               <l>they are the two eyes of this Land.</l>
+               <l>Why then if your eyes be ſo clear that you can ſee,</l>
+               <l>I pray declare and ſhow to mee,</l>
+               <l>who that Angel ſhould bee.</l>
+               <l>But that deep miſterie for you is yet too ſtrong,</l>
+               <l>And for that cauſe,</l>
+               <l>you ſhall be taught by the <hi>Engliſh</hi> Tongue.</l>
+               <l>For the plain Plowman and Cavalier,</l>
+               <l>Whom God hath mounted on the Throne of grace;</l>
+               <l>He ſaith, ye Clergie, you ſhall be forced for to ſee clear,</l>
+               <l>You muſt give way and place.</l>
+               <l>But when I come within your Pulpit for to flie,</l>
+               <l>Ye Magiſtrates you ſay I am to proud</l>
+               <l>becauſe I clime ſo high.</l>
+               <l>But Jeſus Chriſt he hath made me as bold as a Lyon</l>
+               <l>for to ſtand up faithfull on his ſide,</l>
+               <l>
+                  <pb n="2" facs="tcp:117109:2" rendition="simple:additions"/>
+                  <!-- PDF PAGE 110 -->
+And God my Father he <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> me</l>
+               <l>a powerfull Sw<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> down the Clergies pride;</l>
+               <l>For you doe ſo many f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Doctrines raiſe,</l>
+               <l>by your <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ton<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue and Greek phraſe:</l>
+               <l>That now, by Gods helpe, the plain Engliſh tonguea</l>
+               <l>will winne the pr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſe.</l>
+            </lg>
+            <p>It is written in the 7 h. Chapter of the <hi>Revelation,</hi> and the 17. verſe; <hi>The Lambe which is in the midſt of the Throne, he ſhall load the people on to the living Foun<g ref="char:EOLhyphen"/>taines of waters.</hi> And Father, Sonne, and holy Ghoſt, they are the glorious and heavenly fountaines, from which the waters of life doth freely ſpring and flow: <hi>For there are three that bear record in heaven, the Father, the Word, and the holy Ghoſt, and theſe three are one:</hi> And now ye Clergy, I hope ye all know, the Word doth ſig<g ref="char:EOLhyphen"/>nifie Chriſt Jeſus, who is the ſecond perſon in Trinitie, and Father, Sonne, and holy Ghoſt, they are one in God head and one in Unitie. And Jeſus Chriſt he doth tell you, in the one and twentieth Chapter of the <hi>Re<g ref="char:EOLhyphen"/>velation,</hi> ſix<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h verſe, <hi>I will give unto him that is a thirſt, of the fountaine of the Water of life freely.</hi> Which wa<g ref="char:EOLhyphen"/>ter of life doth ſignifie the ſpiritual word of life, which is made manifeſt in the New Teſtament, which is the Book of life. And Jeſus Chriſt he doth tell you in the fourth Chapter of <hi>Iohn,</hi> and the 14 verſe, <hi>He that drinketh of the water that I ſhall give him, he ſhall never thirſt: for the water that I ſhall give him, ſaith Chriſt, ſhall bee in him a Well of water ſpringing up to everlaſting life.</hi> And</p>
+            <lg>
+               <l>Jeſus Chriſt by the power of his Spirit,</l>
+               <l>he hath made me for to ſee and know;</l>
+               <l>His water doth ſpring ſo freelie in me,</l>
+               <l>that my Well doth overflow.</l>
+            </lg>
+            <p>
+               <pb n="3" facs="tcp:117109:2"/>
+               <!-- PDF PAGE 110 -->
+For Jeſus Chriſt he doth tell you plainly in the ſeventh Chapter of <hi>Iohn,</hi> and the 38 verſe, <hi>He that beleeveth in me, out of his belly ſhall flow rivers of living water.</hi> And now by Gods help, I will boldly ſay, as it is written in the 10 Chapter to the <hi>Hebrews,</hi> and the 21 vers, <hi>And having a high Prieſt over the Houſe of God:</hi> I doe moſt humbly beſeech all ye that are athirſt, that now you will draw neere to God with a true heart, and have your bo<g ref="char:EOLhyphen"/>dies waſhed with pure water; for the waſhing of your bodies doth ſignifie your ſoules, which is the inward man, which ſhall be ſanctified and glorified, by drin<g ref="char:EOLhyphen"/>king freely of the water of life. For it is written in the 17 Chapter of <hi>Iohn,</hi> Chriſt ſaith, Sanctifie them through thy truth, thy Word is truth; for Chriſt is the Word and the truth: and Chriſt doth tell you, the glorie which God his Father gave unto him, he doth give unto his Saints, that they may be all one in us, that the world may beleeve, that thou haſt ſent me. And now I ſay againe, the Lambe which is in the middeſt of the Throne, doth ſignifie Gods glorious Preacher; for Jeſus Chriſt he is called by the name of a Lambe; and Gods Word doth tell you, he that is joyned to the Lord is one Spirit. And now by Gods help, I ſhall make it plainly appeare, the Word of God which is written in the New Teſtamant, doth proceed from Father, Sonne, and Holy Ghoſt, which is the glorious throne of grace. It is plainlie written in the 20 Chapter of <hi>Iohn,</hi> and the 21 vers, When Jeſus was riſen from the dead, he came and appeared amongſt his Apoſtles, and he ſaid unto them, <hi>As my Father hath ſent me: even ſo I ſend you, and he breathed on them, and ſaid, receive ye all the Holy Ghoſt.</hi> Againe, It is plainly written in the firſt Chapter to the
+<pb n="4" facs="tcp:117109:3"/>
+               <!-- PDF PAGE 111 -->
+               <hi>Epheſians,</hi> and the third verſe, Bleſſed be the God and Father of our Lord Jeſus Chriſt, who hath bleſſed us with all ſpirituall bleſſings in heavenlie places in Chriſt. And Chriſt he is the Mediatour of the New Teſtament, as you may read in the ninth Chapter to the <hi>Hebrews,</hi> and the 15 vers. And Jeſus Chriſt he did make all his A<g ref="char:EOLhyphen"/>poſtles able Miniſters of the New Teſtament, as you may read in the third <hi>Chapter</hi> of the ſecond Epiſtle to the <hi>Corintians.</hi>
+            </p>
+            <p>And thus by Gods help, I have proved in briefe the Word of God which is written in the New Teſtament, doth proceed from Father, Sonne, and holie Ghoſt, and the water of life, is the ſpirituall Word of life, which is revealed in the New Teſtament, which is the Booke of life. And now all ye that have a deſire to drinke freelie of the water of life, which is ſo glorious and pure, the ſame will cauſe you to forſake thoſe polluted waters, which doth proceed from the great Whore.</p>
+            <p>For now by Gods help I will ſhow you in brief the true ſignification of the great whore, which ſiteth upon ſo many waters. <hi>Revel.</hi> 17.1. <hi>And thoſe many waters muſt not, be taken for temporall waters, which is to be deſerned with the bodily eye;</hi> for the 15. vers doth tell you, the wa<g ref="char:EOLhyphen"/>ters which thou ſaweſt where the Whore ſiteth, are peoples, multitudes, Nations and tongues.</p>
+            <lg>
+               <l>And now by the divine power of Gods Command,</l>
+               <l>I muſt give ye high Court of Parliament to underſtand.</l>
+            </lg>
+            <p>The Devill he is the great whore, and the Devill he hath blinded and deceived the Clergie, and the Clergie they have blinded and deceived all thoſe people which are held under their power; for the ſecond vets doth tell you the Inhabitants of the earth have been made drunk
+<pb n="4" facs="tcp:117109:3"/>
+               <!-- PDF PAGE 111 -->with the wine of her furnication.</p>
+            <lg>
+               <l>And ye Clergie when you are in your Pulpits,</l>
+               <l>you crie out and ſay, if the drunkards do not repent,</l>
+               <l>they muſt down to hell.</l>
+               <l>And now I ſay the ſame is a plain truth</l>
+               <l>which you do tell.</l>
+               <l>But ye Clergie I muſt tell you plainlie</l>
+               <l>you will be found,</l>
+               <l>To be the greateſt drunkards,</l>
+               <l>in Citie or in Countrie town.</l>
+               <l>But I pray underſtand and mark well what I ſay,</l>
+               <l>For you art great drunkards in a ſpirituall way.</l>
+               <l>For ye are alwayes drinking,</l>
+               <l>and yet, alas, alas, you are ever drie,</l>
+               <l>But I muſt ſhow what is the caſe,</l>
+               <l>and the reaſon why.</l>
+               <l>Your Fountain doth proceed from the great whore,</l>
+               <l>who is the mother of your Univerſitie.</l>
+               <l>For ſhe hath a thouſand ſeverall ſorts of wine,</l>
+               <l>And waters for to pleaſe your mind.</l>
+               <l>And by her ſorcerie,</l>
+               <l>ye Clergie you have made the people blind,</l>
+               <l>By drinking of your corrupted waters,</l>
+               <l>and poluted wine.</l>
+            </lg>
+            <p>I ſay again ye Cleargie you have blinded and deceived the people in ſuch a ſhamefull manner, that there is not one man amongſt a thouſand which doth rightlie un<g ref="char:EOLhyphen"/>derſtand for what cauſe Chriſt was crucified on the Croſſe, and doth believe the power thereof. I have ano<g ref="char:EOLhyphen"/>ther book to follow this, which ſhall prove and juſtifie that I ſpeak the plain truth.</p>
+            <lg>
+               <pb n="6" facs="tcp:117109:4"/>
+               <!-- PDF PAGE 112 -->
+               <l>But ye deluding ſpirits, by that glorious light</l>
+               <l>which God hath freelie given to mee,</l>
+               <l>You and thoſe whom you have blinded,</l>
+               <l>you ſhall plainlie know and ſee.</l>
+            </lg>
+            <p>The ſame Propheſie of Scripture ſhall be fulfilled, which is written in the 12. Chapter of the <hi>Revelation, There appeared a great wonder in Heaven, a woman clothed with the Sonne and the Moon under her feet.</hi>
+            </p>
+            <lg>
+               <l>And now ye Magiſtrates and Churchwardens</l>
+               <l>you are not yet able for to unfold this deep riddle,</l>
+               <l>And yet you ſay in the Church</l>
+               <l>I muſt not meddle.</l>
+               <l>But God will make you ſee,</l>
+               <l>I ſhall fight, and manfullie hunt,</l>
+               <l>For to preach in the Pulpit, and baptize at the Funt,</l>
+               <l>For to work a true peace amongſt thoſe that cannot agre</l>
+               <l>And Parſon <hi>Kentiſh</hi>
+               </l>
+               <l>he hath married his man and his maid,</l>
+               <l>And kindlie they have kiſſed,</l>
+               <l>and lovinglie plaid.</l>
+               <l>And is that anie knaverie,</l>
+               <l>but now have at the whores coat,</l>
+               <l>And ſome blind man may note,</l>
+               <l>that I mean bauderie.</l>
+               <l>But Parſon <hi>Kentiſh,</hi>
+               </l>
+               <l>the baud and the old whore,</l>
+               <l>They keep you ſo blind and ſo poore.</l>
+               <l>That my cunnie you can neither feel nor ſee,</l>
+               <l>for like the Owl you ſit in the dark,</l>
+               <l>and cannot come to the mark,</l>
+               <l>nor get one kiſſe of the woman free.</l>
+               <l>
+                  <pb n="7" facs="tcp:117109:4"/>
+                  <!-- PDF PAGE 112 -->
+For the woman clothed with the Sun<g ref="char:punc">▪</g>
+               </l>
+               <l>In her <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce I run;</l>
+               <l>I am certain and ſure:</l>
+               <l>For ſhe hath a delight, for to teach me to fight,</l>
+               <l>and conquer the great old whore,</l>
+               <l>And force ye tormenting Committee,</l>
+               <l>in Town and in Citie,</l>
+               <l>to yield up your helliſh power.</l>
+            </lg>
+            <p>And now ye ſpirituall drunkards which are ſo pure in outward ſhow, and in your blind way ſo preciſe, I pray do not ſcorn to learn of me to be more heavenlie wiſe; for whereas I have ſaid Parſon <hi>Kentiſh</hi> cannot feele nor ſee my Cunnie; I muſt tell you I am a Wariner, and Parſon <hi>Kentiſh</hi> he is not yet come to that height of knowledge for to ferit my heaven lie berry; for the wo<g ref="char:EOLhyphen"/>man clothed with the Sun, ſignifies the glorious and tryumphing Church of Chriſt, which ſhall flouriſh by degrees over the face of the whole world, which will be to the confounding of falſe power, and blind Doctrine which doth ariſe from the Devill and the falſe Church. Again I ſay, the woman clothed with the Sunne, you ſhall ſee and underſtand, ſhe is joyned unto Jeſus Chriſt and is both God and man, for Chriſt is the word, and Chriſt is God.</p>
+            <p>And he that is joyned to the Lord is one ſpirit, &amp; Gods Preacher, he his both man &amp; woman, in ſignification of Scripture. For Saint <hi>Paul</hi> doth tell you in firſt Epiſtle to the <hi>Corinthians,</hi> the 4. Chapter, and the 15. verſe, Though you have ten thouſand Inſtructors, yet you have not many Fathers, for in Chriſt Jeſus I have begot<g ref="char:EOLhyphen"/>ten you through the Goſpel; &amp; for to beget, doth ſignifie
+<pb n="8" facs="tcp:117109:5"/>
+               <!-- PDF PAGE 113 -->man. And in the fourth chapter to the <hi>Galathians,</hi> there he ſaith, My little children, of whom I travell in birth, till <hi>Christ</hi> be formed in you. And to travell in birth, doth ſignifie a woman: For as every naturall child hath a father and mother of the fleſh: ſo on the other ſide, God he is father and mother of the Spirits. And Chriſt doth tell you in rhe third Chapter of <hi>Iohn,</hi> Except a man be borne againe, he cannot ſee the Kingdome of God, for that which is borne of the fleſh is fleſh, and that which is borne of the Spirit is Spirit.</p>
+            <p>And to be born of the Spirit, is to be born againe by the Word of God, as I ſhall prove in the firſt Chapter of <hi>Peter,</hi> for there it is ſaid, We are borne againe not with corruptible ſeed, but by the Word of God, which liveth and abideth for ever: and this is the Word which by the Goſpel is preached unto you, Verſe the five and twentieth.</p>
+            <p>And thus by Gods helpe, I have proved, in briefe, Gods true Preacher, he is man and woman in ſignifi<g ref="char:EOLhyphen"/>cation of Scripture: for a man is begotten and borne againe by the divine power of the Word of God which is manifeſt in the New Teſtament, which is the Book of life.</p>
+            <p>But ye deluding Clergy, when you are in your Pulpit in your Doctering, you joyne the old Law &amp; new togea<g ref="char:EOLhyphen"/>ther, as if they were both as one; and in ſo doing, you are yet almoſt as blind as was the Whoore, Pope <hi>Ioan:</hi> But the Devill he hath not ſo ſtrongly blinded you, but God will make you ſee: the Son of the bond woman cannot, nor ſhall not be heire with the free: As you may read in the fourth Chapter to the <hi>Galatians,</hi> and the thirtieth Verſe. For God my Father by the power of</p>
+            <lg>
+               <pb n="7" facs="tcp:117109:5"/>
+               <!-- PDF PAGE 113 -->
+               <l>His Spirit, he will bring it ſo about,</l>
+               <l>that by the glory of the free Woman,</l>
+               <l>The bond Woman, and her Sonne,</l>
+               <l>They ſhall be quit caſt out.</l>
+               <l>And for that cauſe, Parſon <hi>Kentiſh</hi> you ſhall be</l>
+               <l>forced for to give way, and rome:</l>
+               <l>That the Woman cloathed with the Sunne,</l>
+               <l>may in your Pulpit come.</l>
+               <l>But ye Magiſtrates, and Churchwardens ye will not yet</l>
+               <l>ſuffer me, in the Pulpit, for to declare my mind;</l>
+               <l>And for that cauſe I muſt reprove you ſoundly,</l>
+               <l>becauſe you are ſo blind.</l>
+               <l>For are not thoſe blind hypocrites,</l>
+               <l>as I will ſhew you by relation:</l>
+               <l>Which fight againſt that you pray for,</l>
+               <l>which is abomination.</l>
+               <l>For in Lords Prayer you doe pray,</l>
+               <l>that Gods will may be done:</l>
+               <l>And yet you fight againſt that power,</l>
+               <l>which doth proceed from God the Father &amp; the Son.</l>
+               <l>For they have made me a heavenly Schoolmaſter.</l>
+               <l>and they have given me a glorious crowne.</l>
+               <l>And ye learned Synod, I pray, what ſay you, will<lb/>
+not ſtore of gray Conny skins make me a good warme<lb/>
+Gowne, for I am a bold and valiant Warriour, and do<lb/>
+love a Conie well.</l>
+               <l>And ye Magiſtrates, I hope to draw you from the<lb/>
+Devill, who is the Prince of darkneſſe, and the great<lb/>
+Whore of hell.</l>
+            </lg>
+            <p>For God hath given me the key of knowledge; and Church-wardens, I pray give me the Key of the Church
+<pb n="6" facs="tcp:117109:6"/>
+               <!-- PDF PAGE 114 -->door, that I may have free leave to call Gods ſheep into the true fould, and ſcourge out myſticall <hi>Babylon</hi> that drunken and poluted Whore, with whom the Inhabiters of the earth have been made drunk with the ſpirituall wine of her fornication, which in Gods ſight is very hatefull and and abomination.</p>
+            <lg>
+               <l>But now ye Clergy, Magiſtrates, and Churchwardens,</l>
+               <l>I pray in time repent,</l>
+               <l>and be reconciled unto the ſon of the woman free,</l>
+               <l>And then you and I, ſhall live in love and peace,</l>
+               <l>and quickly agree.</l>
+               <l>For the Son of the free woman,</l>
+               <l>in plain and brief I muſt you tell,</l>
+               <l>That doth ſignifie Jeſus Chriſt, and the Goſpel.</l>
+               <l>And I pray underſtand the Goſpel in his right place,</l>
+               <l>For it is the new Teſtament,</l>
+               <l>which doth proceed from the throne of grace.</l>
+            </lg>
+            <p>And now ye Lords, Knights, and Burgeſſes in Parlia<g ref="char:EOLhyphen"/>ment, Committees, Captains and Commanders, I do moſt humblie beſeech you all, for the true love that is in God my glorious Father, that now you will in time re<g ref="char:EOLhyphen"/>pent and be reconciled to Jeſus Chriſt, and to the mini<g ref="char:EOLhyphen"/>ſtration of the new Teſtament, which is my glorious Goſpel of love and peace, that by the divine power thereof, your joy and glorie may increaſe, and now the God of love and peace who hath brought again from the dead our Lord Jeſus, that great Shepheard of the ſheepe through the blood of the everlaſting Covenant, make you all perfect to do his will, working in you that which is well pleaſing in his ſight, through the divine power of Jeſus Chriſt our Lord. <hi>Hebrews</hi> the 13. Chap<g ref="char:EOLhyphen"/>ter,
+<pb n="3" facs="tcp:117109:6"/>
+               <!-- PDF PAGE 114 -->and the 20. vers. And now I ſay again, Jeſus Chriſt he is the great ſhepherd of the ſheepe, and that is but one true and perfect God, and there muſt and ſhall be but one Religion, one ſhepherd, and one ſheep-fould, and Fa<g ref="char:EOLhyphen"/>ther, Son, and holie Ghoſt, they have made me a pow<g ref="char:EOLhyphen"/>erfull Inſtrument for to call and gather Gods ſheepe into the true fould, that Gods love and power, and glorie you may behold.</p>
+            <p>And ye high Court of Parliament, I pray take Coun<g ref="char:EOLhyphen"/>cell now of God and me, and in true judgment ſeat; for Gods word doth tell you, the woman clothed with the Son, ſhall burn the Moon under her feet.</p>
+            <p>And ye blind Synod, you have been along time a ſet<g ref="char:EOLhyphen"/>ing forth of Chriſt and his true Church, as I may bold<g ref="char:EOLhyphen"/>lie ſay; but alas, alas, you are all as men in the moon, for you cannot find the way, and now ye Committees and Exciſers, the tax monie which you force me, and the people to pay, you ſay the ſame is for the ſeting forth of true and ſound Religion, but I muſt tell you true, that ſound Religion ſhall not be ſet forth by thoſe moon-blind Sinod whom the Parliament hire with our monie, nor yet by anie other polititian government or power which doth proceed from mans invention; for true peace and ſound Religion, and Church Govern<g ref="char:EOLhyphen"/>ment, the ſame ſhall be eſtabliſhed and ſet forth by that divine power and ſpirit which doth freelie proceed from Father, Son, and holie Ghoſt.</p>
+            <lg>
+               <l>And now ye Exciſers and tormenting Committee,</l>
+               <l>in Town and in Citie.</l>
+               <l>I pray mark well what I ſay;</l>
+               <l>For if you will not turn and repent,</l>
+               <l>Hell-fire will make you lament.</l>
+               <l>
+                  <pb n="2" facs="tcp:117109:7"/>
+                  <!-- PDF PAGE 115 -->
+For Gods power you ſhall obay.</l>
+               <l>For if you will not learn the way of peace,</l>
+               <l>which is unto ſalvation,</l>
+               <l>You ſhall be ſure for to obay,</l>
+               <l>the torments of damnation.</l>
+               <l>But I hope there is none of you</l>
+               <l>that doth deſire for to burn in hell,</l>
+               <l>Why then I pray do not fight againſt the light,</l>
+               <l>for God will have his will.</l>
+               <l>And Father, Son, and holie Ghoſt,</l>
+               <l>whoſe light is above the brightnes &amp; glorie of the Sun,</l>
+               <l>Their power doth command my ſpirit</l>
+               <l>within their races to run.</l>
+               <l>And falſe power and falſe Doctrine which proceedeth</l>
+               <l>from the Devill, which is hatefull in Gods ſight,</l>
+               <l>That ſhall be reproved and overthrown</l>
+               <l>by the glory of the light.</l>
+               <l>Which true light proceedeth from above,</l>
+               <l>I ſay from the true God of peace and love.</l>
+            </lg>
+            <closer>Vnto whom be alwayes Honour, Glory, and Power, now, and ever more, Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
